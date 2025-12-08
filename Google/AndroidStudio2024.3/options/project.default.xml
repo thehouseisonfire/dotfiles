@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="748" y="357" key="FileChooserDialogImpl" timestamp="1744058530381">
+          <screen x="0" y="0" width="1920" height="1200" />
+        </state>
+        <state x="748" y="357" key="FileChooserDialogImpl/0.0.1920.1200" timestamp="1744058530381" />
+        <state x="469" y="270" key="SettingsEditor" timestamp="1744058532730">
+          <screen x="0" y="0" width="1920" height="1200" />
+        </state>
+        <state x="469" y="270" key="SettingsEditor/0.0.1920.1200" timestamp="1744058532730" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

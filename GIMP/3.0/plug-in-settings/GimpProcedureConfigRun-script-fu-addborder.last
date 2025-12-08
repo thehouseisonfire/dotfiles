@@ -1,0 +1,10 @@
+# settings
+
+(adjustment 54)
+(adjustment-2 54)
+(color
+    (color "HSV float" 12 "\27\135\54\77\0\0\200\77\0\0\0\0" 0))
+(adjustment-3 25)
+(toggle yes)
+
+# end of settings

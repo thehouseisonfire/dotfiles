@@ -1,0 +1,11 @@
+# settings
+
+(GimpGegl-gimp-offset-config "2025-07-06 22:21:51"
+    (time 1751851311)
+    (color
+        (color "HSVA float" 16 "\0\0\0\0\0\0\0\0\0\0\200\77\0\0\200\77" 0))
+    (type wrap-around)
+    (x 0)
+    (y 0))
+
+# end of settings

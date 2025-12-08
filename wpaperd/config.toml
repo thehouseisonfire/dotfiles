@@ -1,0 +1,4 @@
+[default]
+duration = "1h"
+transition-time=200
+path = "/home/eagle/Pictures/garuda-wallpapers/"

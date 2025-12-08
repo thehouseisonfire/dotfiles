@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="8" l="1744058516867" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1741004588535" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="6" l="1744057016727" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager2">
+      <i c="10" l="1744116629833" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1744058453546" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeleteAction">
+      <i c="4" l="1744058733001" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="10" l="1744058736264" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1741007150367" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1741007167610" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="2" l="1744056869270" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1744058451270" />
+    </e>
+  </component>
+</application>

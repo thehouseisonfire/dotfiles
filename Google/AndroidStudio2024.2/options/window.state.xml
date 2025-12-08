@@ -1,0 +1,12 @@
+<application>
+  <component name="WindowStateApplicationService">
+    <state x="960" y="620" width="1902" height="1142" key="WELCOME_SCREEN" timestamp="1741007901873">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="960" y="620" width="1902" height="1142" key="WELCOME_SCREEN/0.0.1920.1200" timestamp="1741007901873" />
+    <state x="9" y="49" width="1902" height="1142" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1741007445264">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="9" y="49" width="1902" height="1142" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.0.1920.1200" timestamp="1741007445264" />
+  </component>
+</application>
