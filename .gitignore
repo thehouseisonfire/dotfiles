@@ -1,0 +1,41 @@
+# App state, caches, and telemetry (not hand-edited config)
+**/Cache/
+**/Code Cache/
+**/GPUCache/
+**/DawnGraphiteCache/
+**/DawnWebGPUCache/
+**/Crashpad/
+**/Crash Reports/
+**/*-journal
+**/*.log
+**/Cookies
+**/Cookies-journal
+**/history
+**/history.db
+**/Local Storage/
+**/Session Storage/
+**/IndexedDB/
+**/Service Worker/
+**/Network Persistent State
+**/Transport Security
+**/Trust Tokens*
+
+# Tool/runtime noise
+chromium/
+FreeTube/
+configstore/
+go/
+turborepo/
+uv/
+Google/
+simple-update-notifier/
+dconf/
+GIMP/
+mangal/
+cachyos/
+micro/buffers/
+
+# Misc machine/app state
+cachyos-hello.json
+kwalletrc
+btop/btop.log

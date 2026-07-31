@@ -7,7 +7,6 @@ set -xU MANROFFOPT "-c"
 set -x SHELL /usr/bin/fish
 set -xU OLLAMA_API_BASE "http://127.0.0.1:11434"
 set -xU PROTON_DLSS_UPGRADE 1
-set -xU OPENROUTER_API_KEY "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"
 ## Export variable need for qt-theme
 if type "qtile" >> /dev/null 2>&1
    set -x QT_QPA_PLATFORMTHEME "qt5ct"
