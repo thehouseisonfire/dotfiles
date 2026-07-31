@@ -20,22 +20,26 @@
 **/Transport Security
 **/Trust Tokens*
 
-# Tool/runtime noise
-chromium/
-FreeTube/
-configstore/
-go/
-turborepo/
-uv/
-Google/
-simple-update-notifier/
-dconf/
-GIMP/
-mangal/
-cachyos/
-micro/buffers/
+# Fish universal variables (runtime state; may contain secrets)
+**/fish/fish_variables
+
+# Editor / tool local buffers
+**/micro/buffers/
+
+# Tool/runtime noise (keep out if re-added under home/)
+**/chromium/
+**/FreeTube/
+**/configstore/
+**/go/telemetry/
+**/turborepo/
+**/Google/
+**/simple-update-notifier/
+**/dconf/
+**/GIMP/
+**/mangal/
+**/cachyos/
 
 # Misc machine/app state
+**/btop/btop.log
 cachyos-hello.json
 kwalletrc
-btop/btop.log
